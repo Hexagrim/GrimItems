@@ -1,11 +1,17 @@
 # GrimItems
 A fabric 1.21.1 Minecraft mod that adds special items related to soul and the reaper.
 
-MUST READ:
-//
-DO /unlock_grim_recipies to unlock recipies.
-//
-This mod adds SOUL and scythe and more custom items into the game to make you feel like a GOD. The items are OP and can be crafted. The soul shard is the core of all these items, so You can get them in the nether dimension. 
+# Grim Items Mod
+
+**MUST READ:**  
+Use the command `/unlock_grim_recipies` to unlock all recipes.
+
+This mod adds **SOUL**, **Scythe**, and many more custom items to the game, giving you the feeling of a **GOD**.  
+
+- The items are **overpowered (OP)** and craftable.  
+- **Soul Shard** is the core of all these items.  
+- You can find Soul Shards in the **Nether dimension**.
+
 
 Here are some screenshotss.
 
