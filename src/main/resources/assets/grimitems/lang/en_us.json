@@ -1,0 +1,22 @@
+{
+  "item.grimitems.scythe": "§4Scythe of The Reaper",
+  "item.grimitems.advancedscythe": "§4Scythe of The Most Powerful Reaper",
+  "item.grimitems.soulshard": "Soul Shard",
+  "item.grimitems.recall": "§cDeath's Recall",
+  "item.grimitems.souldrive": "§cSoul Driver",
+
+  "effect.grimitems.reaperscurse": "Reaper's Curse",
+  "effect.grimitems.souloverdose": "Soul Overdose",
+
+  "item.minecraft.potion.effect.soulpotion": "Soul Potion",
+  "item.minecraft.splash_potion.effect.soulpotion": "Soul Splash Potion",
+  "item.minecraft.lingering_potion.effect.soulpotion": "Soul Lingering Potion",
+
+  "item.minecraft.potion.effect.reaperpotion": "Reaper's Cursed Potion",
+  "item.minecraft.splash_potion.effect.reaperpotion": "Reaper's Cursed Splash Potion",
+  "item.minecraft.lingering_potion.effect.reaperpotion": "Reaper's Cursed Lingering Potion",
+  "block.grimitems.soulore": "Soul Shard Ore",
+  "block.grimitems.soulblock": "Soul Shard Block",
+
+  "item.grimitems.meltedsoul": "§cMelted Soul(gassy)"
+}

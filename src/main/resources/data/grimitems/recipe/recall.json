@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "grimitems:soulshard"
+    },
+    "*": {
+      "item": "minecraft:eye_of_ender"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#*#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "grimitems:recall"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "grimitems:soulblock"
+    },
+    "*": {
+      "item": "grimitems:scythe"
+    },
+    "^": {
+      "item":"minecraft:tnt"
+    },
+    "0": {
+      "item":"minecraft:ender_pearl"
+    }
+  },
+  "pattern": [
+    "#0#",
+    "^*^",
+    "#^#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "grimitems:advancedscythe"
+  }
+}
